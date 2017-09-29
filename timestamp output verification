@@ -1,0 +1,85 @@
+10:04:24.210:
+Setting up pins
+10:04:24.229:
+
+Polling time selection - pin17 = 60s | pin18 = 75s
+
+10:04:24.284:
+
+PAD delay 0s
+turn ON LOAD-1 | ON Vid-1
+delay 15s
+
+10:04:39.251:
+turn OFF LOAD-1 | OFF Vid-1
+delay 30s
+
+10:05:09.230:
+PAD delay 0s
+turn ON LOAD-2 | ON Vid-2
+delay 15s
+
+10:05:24.228:
+turn OFF LOAD-2 | OFF vid2
+delay 30s
+
+10:05:54.222:
+PAD delay 0s
+
+10:05:54.240:
+turn ON LOAD-3 | ON Vid-3
+delay 15s
+
+10:06:09.215:
+turn OFF LOAD-3 | OFF Vid-3
+delay 30s
+
+10:06:39.188:
+Polling time selection - pin17 = 60s | pin18 = 75s
+
+10:06:39.241:
+
+PAD delay 15s
+
+10:06:54.181:
+turn ON LOAD-1 | ON Vid-1
+delay 15s
+10:06:54.219:
+
+
+10:07:09.185:
+turn OFF LOAD-1 | OFF Vid-1
+delay 30s
+
+10:07:39.169:
+PAD delay 15s
+
+10:07:54.172:
+turn ON LOAD-2 | ON Vid-2
+delay 15s
+
+10:08:09.148:
+turn OFF LOAD-2 | OFF vid2
+delay 30s
+
+10:08:39.129:
+PAD delay 15s
+
+10:08:54.137:
+turn ON LOAD-3 | ON Vid-3
+delay 15s
+
+10:09:09.123:
+turn OFF LOAD-3 | OFF Vid-3
+delay 30s
+
+10:09:39.115:
+Polling time selection - pin17 = 60s | pin18 = 75s
+10:09:39.168:
+
+PAD delay 0s
+turn ON LOAD-1 | ON Vid-1
+delay 15s
+
+10:09:39.207:
+
